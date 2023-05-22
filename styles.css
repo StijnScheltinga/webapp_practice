@@ -1,0 +1,18 @@
+.main_container {
+    display: flex;
+}
+
+.sidebar {
+    width: 20%;
+    background-color: blue;
+}
+
+.content {
+    flex-grow: 1;
+    margin: 0 auto;
+}
+
+#title_landing_page {
+    color: blue;
+    font-size: 50px;
+}
